@@ -1,0 +1,33 @@
+body {
+    background-color: rgba(56, 67, 231, 0.205);
+}
+
+#container {
+    background-color: rgb(238, 27, 27);
+    width: 800 px;
+    margin-left: auto;
+    margin-right: auto
+}
+
+#header {
+    background-color: #66CCFF;
+    color: rgb(126, 36, 36);
+    text-align: center;
+}
+
+#content {
+    padding: 10px;
+}
+
+#nav {
+    width: 100px;
+    float: right;
+}
+
+#main {
+    width: 600px;
+}
+
+#footer {
+    clear: both;
+}
